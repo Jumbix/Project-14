@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527787051 source:c:\users\aaa\desktop\facultate\laboratoare\n.m.-temereanca\project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527954648 source:c:\users\aaa\desktop\facultate\laboratoare\a.d.-a.becheru\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
