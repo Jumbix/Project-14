@@ -61,4 +61,5 @@ for i in range (0, n):
  
 print "The ordering starts from the first piece."
 g.BFS(1)
+
 g.DFS(1)
