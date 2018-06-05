@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include <assert.h>
 
-/** These are the pieces of Alexander's Legos^TM.
- * @author Prenciu Raul Ovidiu aka ROL
- * @date 06.06.2018
- */
-
 
 struct lego {
     int no_nodes;
@@ -14,10 +9,6 @@ struct lego {
     int *adj_matrix;
 };
 
-/** This is the oreder of the pieces used as insturctions for Alexander's Legos^TM.
- * @author Prenciu Raul Ovidiu aka ROL
- * @date 06.06.2018
- */
 struct piece{
     int info;
     struct piece *next;
